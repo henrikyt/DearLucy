@@ -1,0 +1,27 @@
+{
+  "name": "nut",
+  "description": "Dear Lucy Coding Assignment",
+  "version": "1.0.0",
+  "private": true,
+  "author": {
+    "name": "Rasmus Back",
+    "email": "rasmus@dearlucy.co"
+  },
+  "scripts": {
+    "test": "mocha test/",
+    "test-data": "node scripts/test-data.js"
+  },
+  "dependencies": {
+    "lodash": "4.9.x",
+    "moment": "2.12.x",
+    "moment-range": "2.2.x"
+  },
+  "devDependencies": {
+    "chai": "3.5.x",
+    "jsonfile": "2.2.x",
+    "mocha": "2.4.x"
+  },
+  "engines": {
+    "node": "4.x"
+  }
+}
