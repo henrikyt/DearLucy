@@ -34,6 +34,6 @@ What other information, in addition to number of employees, can be gathered from
 
 ## External Documentation
 * http://momentjs.com/
-* http://lodash.com/api
+* http://lodash.com/docs
 * http://mochajs.org/
 * http://chaijs.com/api/bdd/
